@@ -1,4 +1,6 @@
-package com.example.acrof;
+package com.acrof;
+
+import com.example.acrof.R;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
